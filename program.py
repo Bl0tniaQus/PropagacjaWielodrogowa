@@ -1,6 +1,6 @@
 import funkcje
 #[MHz]
-f = 88
+f = 5
 
 A1 = 0.8
 A2 = 0.7
